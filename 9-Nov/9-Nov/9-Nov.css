@@ -1,0 +1,9 @@
+@font-face {
+    font-family: frak;
+    src: url(Fraktur.ttf);
+}
+
+#main-heading{
+    font-family: frak;
+    text-align: center;
+}

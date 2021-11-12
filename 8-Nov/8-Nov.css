@@ -1,0 +1,94 @@
+@font-face {
+    font-family: frak;
+    src: url(Fraktur.ttf);
+}
+.in-line{
+    display: inline-block;
+}
+
+.Headings{
+    color: silver;
+    font-family: frak;
+    text-align: center; 
+}
+
+.subheadings{
+    color: black;
+    font-family: 'Lobster Two', cursive;
+    
+    
+}
+
+.para{
+    color: black;
+    font-family: 'Mohave', sans-serif;
+    
+}
+
+#navbar{
+    background-color:black;
+    color: whitesmoke;
+    font-family: Franktur;
+    position:sticky;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: fit-content;
+
+  }
+
+.points{
+    color: green;
+    font-family: 'Dongle', sans-serif;
+}  
+
+#ftr{
+    background-color: black;
+    font-family: 'Permanent Marker', cursive;
+    color: whitesmoke;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+   width: fit-content;
+   padding-left: 550px;
+   padding-right: 550px;
+
+
+}
+
+#body{
+    background-image: url(back.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat-y;
+}
+
+#main-heading{
+    background-image: url(headback.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.txtcenter{
+    text-align: center;
+}
+
+#table{
+    color: black;
+    font-family: 'Dongle', sans-serif;
+}
+
+#asidehd{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+#campus{
+    text-align: center;
+    background-color: blanchedalmond;
+    margin: 0%;
+}

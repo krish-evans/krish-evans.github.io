@@ -1,0 +1,42 @@
+#headfont{
+    color:#88E0EF;
+    font-family: 'Genos', sans-serif;
+    font-size: 250%;
+}
+
+#head{
+    background-color: #161E54;
+    border-radius:25px ;
+}
+#body{
+    background-color: #FF9B6A;
+}
+
+#r1c1{
+    font-family: 'Happy Monkey', cursive;
+    color: whitesmoke;
+    text-align: center;
+}
+.inline{
+    display: table-cell;
+    text-align: center;
+}
+
+#navr1c1{
+    background-color: #FF5151;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    height: 110px;
+    width: 300px;
+}
+.para{
+    font-family: 'Exo 2', sans-serif;
+    color: black;
+}
+
+#fullspan{
+    background-color: #88E0EF;
+    border-radius: 25px;
+}
